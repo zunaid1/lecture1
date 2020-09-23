@@ -1,0 +1,23 @@
+{
+  "name": "Lecture1",
+  "authors": [
+    "zunaid1 <zunaidctg11@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "(https://github.com/zunaid1/lecture1)",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awsome": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.5.1"
+  }
+}
